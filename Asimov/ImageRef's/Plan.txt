@@ -1,0 +1,5 @@
+Doorways (Red, Green, Blue)
+Colored Floor Tiles (Red, Green, Blue)
+Reactor
+Battery Nodes
+Battery
